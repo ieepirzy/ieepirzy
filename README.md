@@ -31,6 +31,6 @@
  ### 🛠️ Featured Projects
 - 📱 [MindRest](#) – AI-powered mental wellness companion *(MVP expected this year)*  
 - 💸 [Budgetify](#) - automation-first budgeting tool *(still an idea)*
-- 🌐 [PhySiLight](#) - utilities from my physics studies, and other tools *(quality not guaranteed 💀)*  
+- 🌐 [PhySiLight](https://github.com/ieepirzy/PhySiLight-Tools) - utilities from my physics studies, and other tools *(quality not guaranteed 💀)*  
 
 > Open source. Ideas always welcome.
