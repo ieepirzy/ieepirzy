@@ -3,8 +3,9 @@
 🚀 Systems thinker, physics student, and aspiring builder.
 
 ### ✨ Guiding Philosophy:
-> I build things that might help someone.  
-> Not for hype. Probably not for everyone. But for those who need them.
+> I build things — in the hope that they’ll make life just a bit easier.
+> 
+> Not for the hype. For the moments when someone, somewhere, could use a little help.
 > 
 > Focusing on **Technology for humans.**
 
