@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @ieepirzy
 
-🚀  physics student, and aspiring builder.
+🚀 Physics student, and aspiring builder.
 
 ### ✨ Guiding Philosophy:
 > I build things — in the hope that they’ll make life just a bit easier.\
@@ -15,13 +15,13 @@
 - ▶️ Youtube devlogs & diaries: [@IladevV](https://www.youtube.com/@IladevV)
 
 ### 🧩 Currently Learning:
-- Full stack deveploment fundamentals
-- Mobile deveploment  
-- API integration & serverless architecture  
+- Full stack deveploment fundamentals 
+- API integration & server architecture  
 - UX/UI design + Algorithms 
-- Physics — lots of physics.
+- Physics — lots of physics
 - Network technology
 - AI + ML
+- Agents
 
 
  ### 🛠️ Featured Projects
