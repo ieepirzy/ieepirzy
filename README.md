@@ -25,8 +25,8 @@
 
 
  ### 🛠️ Featured Projects
-- 🌐 [PANP](#) - A protocol for machine-to-machine native communication.
-- 📱 [MindRest](https://github.com/ieepirzy/MindRest) – AI-powered mental wellness companion *(MVP expected this year)*  
+- 🌐 [PANP](#) - A protocol for machine-to-machine native communication. *(Shelved)*
+- 📱 [MindRest](https://github.com/ieepirzy/MindRest) – AI-powered mental wellness companion *(Shelved)*  
 - 💸 [Budgetify](https://github.com/ieepirzy/Budgetify-Project) - automation-first budgeting tool *(still an idea)*
 - 🔬 [PhySiLight](https://github.com/ieepirzy/PhySiLight-Tools) - utilities from my physics studies, and other tools *(quality not guaranteed 💀)*  
 
