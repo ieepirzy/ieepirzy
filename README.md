@@ -16,10 +16,7 @@
 
 ### 🧩 Currently Learning:
 - Full stack deveploment fundamentals 
-- API integration & server architecture  
-- UX/UI design + Algorithms 
-- Physics — lots of physics
-- Network technology
+- API's & server architecture  
 - AI + ML
 - Agents
 
