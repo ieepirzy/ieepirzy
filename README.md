@@ -22,7 +22,7 @@
 
 
  ### 🛠️ Featured Projects
-- 🌐 [VEP](#) - A protocol for machine-to-machine native communication. *In progress*
+- 🌐 [VEP](#) - A protocol for agent-to-agent AI native communication. *In progress*
 - 📱 [MindRest](https://github.com/ieepirzy/MindRest) – AI-powered mental wellness companion *(Shelved)*  
 - 💸 [Budgetify](https://github.com/ieepirzy/Budgetify-Project) - automation-first budgeting tool *(still an idea)*
 - 🔬 [PhySiLight](https://github.com/ieepirzy/PhySiLight-Tools) - utilities from my physics studies, and other tools *(quality not guaranteed 💀)*  
