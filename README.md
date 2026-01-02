@@ -24,5 +24,5 @@
  ### 🛠️ Featured Projects
 - 🌐 [VEP](#) - A protocol for agent-to-agent AI native communication. *In progress*
 - 🔬 [PhySiLight](https://github.com/ieepirzy/PhySiLight-Tools) - utilities from my physics studies, and other tools *(quality not guaranteed 💀)*  
-
+- [ieeLabTools](https://github.com/ieepirzy/ieeLabTools) - Custom python library for lab automation
 > Open source. Ideas always welcome.
