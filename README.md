@@ -8,5 +8,3 @@
 - AI + ML
 - Agents
 
-## Projects:
-
