@@ -5,9 +5,10 @@
 ### Currently Learning:
 - Full stack deveploment
 - Software architecture
-- Data structures
+- Data structures & Algorithms
 - AI + ML, AI agents
 - Networking, security, web3
+- OS internals, hardware
 
 ## Published packages
 
