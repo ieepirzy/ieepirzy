@@ -14,7 +14,7 @@
 
 [rönti](https://pypi.org/project/ronti/) - Personal tool made to help with recent supply chain attacks in OSS
 
-[origo](https://pypi.org/project/origo/) - OAuth2.1 + PKCE as single endpoint, made to simplify MCP deployment
+[origo](https://pypi.org/project/origo/) - OAuth2.1 + PKCE injected as middleware, made to simplify MCP deployment
 
 [ieeLabTools](https://pypi.org/project/ieeLabTools/) - Error propagation automation package and more
 
