@@ -26,7 +26,7 @@ covering everything from sysadmin, networking, cybersecurity, application backen
 
 [miragen]() - Creating agents with simple yaml declarations with easy container runtime
 
-## Projects
+## Featured Projects
 
 [SanLi](https://github.com/ieepirzy/SanLi) - My programming language, unique syntax with native quantum types (coming soon)
 
