@@ -24,7 +24,7 @@
 
 [SanLi](https://github.com/ieepirzy/SanLi) - My programming language, unique syntax with native quantum types (coming soon)
 
-[hudson](https://github.com/ieepirzy/hudson) - Car diadgnostics software, reads ECU data via BT ELM327
+[hudson](https://github.com/ieepirzy/hudson) - Car diadgnostics software, reads ECU data via BT ELM327 (tested on V1.5)
 
 **future work/coming soon**
 
