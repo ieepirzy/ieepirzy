@@ -2,6 +2,12 @@
 
 🚀 Physics student, self-taught software developer
 
+## My work:
+
+Architecht and engineer of the end to end fullstack system for [Muutto365](https://muutto365.fi),
+
+covering everything from sysadmin, networking, cybersecurity, application backend, frontend development, to analytics, data-management and AI-integration.
+
 ### Currently Learning:
 - Full stack deveploment
 - Software architecture
