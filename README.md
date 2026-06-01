@@ -18,6 +18,8 @@
 
 [ieeLabTools](https://pypi.org/project/ieeLabTools/) - Error propagation automation package and more
 
+[miragen]() - Creating agents with simple yaml declarations with easy container runtime
+
 ## Projects
 
 [SanLi](https://github.com/ieepirzy/SanLi) - My programming language, unique syntax with native quantum types (coming soon)
