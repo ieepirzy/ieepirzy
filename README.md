@@ -32,4 +32,3 @@
 
 [ICE]() - bot detection
 
-[placeholder]() - my own agent framework, name pending
