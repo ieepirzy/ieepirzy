@@ -1,4 +1,6 @@
-# 👋 Hi, I’m @ieepirzy
+# ieepirzy
+
+> I like software and energy drinks
 
 🚀 Physics student, self-taught software developer
 
