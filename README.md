@@ -2,6 +2,8 @@
 
 > I like software and energy drinks
 
+Reach me at <a href="mailto:nervy_colder_1m@icloud.com">nervy_colder_1m@icloud.com</a>
+
 🚀 Physics student, self-taught software developer
 
 ## My work:
