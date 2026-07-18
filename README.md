@@ -17,8 +17,7 @@ covering everything from sysadmin, networking, cybersecurity, application backen
 - Software architecture
 - Data structures & Algorithms
 - AI + ML, AI agents
-- Networking, security, web3
-- OS internals, hardware
+- Networking, security
 
 ## Published packages
 
