@@ -6,6 +6,8 @@ Reach me at <a href="mailto:nervy_colder_1m@icloud.com">nervy_colder_1m@icloud.c
 
 ## My work:
 
+> ..and there is more, navigate to the repositories tab to see them all.
+
 Architecht and engineer of the end to end fullstack system for [Muutto365](https://muutto365.fi),
 
 covering everything from sysadmin, networking, cybersecurity, application backend, frontend development, to analytics, data-management and AI-integration.
@@ -26,7 +28,7 @@ covering everything from sysadmin, networking, cybersecurity, application backen
 
 [ieeLabTools](https://pypi.org/project/ieeLabTools/) - Error propagation automation package and more
 
-[miragen]() - Creating agents with simple yaml declarations with easy container runtime
+[miragen](https://pypi.org/project/miragen/) - Creating agents with simple yaml declarations with easy container runtime
 
 ## Featured Projects
 
